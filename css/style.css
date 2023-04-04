@@ -3,9 +3,8 @@
 }
 
 .navbar {
-  background-color: gray;
+  background-color: rgb(151, 148, 148);
   padding: 10px;
-  float: left;
 }
 
 .navbar a {
