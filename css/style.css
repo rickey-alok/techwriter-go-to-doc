@@ -5,6 +5,7 @@
 .navbar {
   background-color: rgb(151, 148, 148);
   padding: 10px;
+  position: fixed;
 }
 
 .navbar a {
