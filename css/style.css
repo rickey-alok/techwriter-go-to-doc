@@ -1,11 +1,13 @@
 *{
     font-family: cursive;
-    color: black;
+    color: rgb(221, 106, 106);
 }
 
 .navbar {
     background-color: gray;
     padding: 10px;
+    color: black;
+    flex-flow: row;
 }
 
 .navbar a:hover {
