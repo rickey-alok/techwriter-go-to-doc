@@ -3,6 +3,10 @@
 }
 
 .navbar {
-    background-color: rgb(201, 42, 42);
+    background-color: gray;
     padding: 10px;
+}
+
+.navbar a {
+    text-decoration: none;
 }
