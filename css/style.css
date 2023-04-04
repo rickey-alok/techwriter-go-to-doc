@@ -7,6 +7,6 @@
     padding: 10px;
 }
 
-.navbar a {
+.navbar a:hover {
     text-decoration: none;
 }
