@@ -5,7 +5,7 @@
 .navbar {
   background-color: gray;
   padding: 10px;
-  flex-direction: column;
+  float: ;
 }
 
 .navbar a {
@@ -16,4 +16,8 @@
 .navbar a:hover {
   text-decoration: underline;
   color: white;
+}
+
+.navbar-right {
+  float: right;
 }
