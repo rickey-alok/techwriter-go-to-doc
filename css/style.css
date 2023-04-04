@@ -5,6 +5,7 @@
 .navbar {
   background-color: gray;
   padding: 10px;
+  flex-direction: column;
 }
 
 .navbar a {
