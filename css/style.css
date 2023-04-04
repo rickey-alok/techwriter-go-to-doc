@@ -20,3 +20,8 @@
 .navbar-right {
   float: right;
 }
+
+.footer {
+  background-color: black;
+  color: white;
+}
