@@ -6,7 +6,7 @@
   background-color: rgb(151, 148, 148);
   padding: 10px;
   position: sticky;
-  position: 5px;
+  top: 5px;
 }
 
 .navbar a {
