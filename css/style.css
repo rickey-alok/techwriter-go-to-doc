@@ -5,8 +5,6 @@
 .navbar {
   background-color: gray;
   padding: 10px;
-  color: black;
-  flex-flow: row;
 }
 
 .navbar a {
