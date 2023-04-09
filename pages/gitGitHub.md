@@ -10,7 +10,7 @@ a platform for hosting and collaborating on Git repositories
 
 ## Workflow
 
-![Git and GitHub](./../img/workflow-git.drawio.png)
+![Git and GitHub](./../img/workflow-git.drawio.png "overview")
 
 ### One time commands
 
