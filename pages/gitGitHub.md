@@ -12,6 +12,8 @@ a platform for hosting and collaborating on Git repositories
 
 ![Git and GitHub](./../img/workflow-git.drawio.png "overview")
 
+<p style="text-align: center;">Git&GitHub workflow</p>
+
 ### One time commands
 
 - Initialize repository: `git init`
