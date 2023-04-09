@@ -1,6 +1,6 @@
 # Git & Gihub - Cheatsheet
 
-## Git (Global Information Tracker) <img src="./../img/git-logo.png" alt="git" width="30%" height="30%" style="float:right">
+## Git (Global Information Tracker) <img src="./../img/git-logo.png" alt="git" width="9%" height="9%" style="float:right">
 
 - What
   - an open source
@@ -19,7 +19,7 @@
   - Security
     - uses encryption to secure data transfer and storage, which helps keep sensitive information safe.
 
-## Github
+## Github <img src="./../img/github-logo.png" alt="git" width="9%" height="9%" style="float:right">
 
 a platform for hosting and collaborating on Git repositories
 
