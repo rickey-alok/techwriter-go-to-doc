@@ -1,7 +1,8 @@
 # MSON = Markdown + JSON
 
-Example MSON file
-==================
+# Example MSON file
+
+```json
 # Data Structures
 
 ## Blog Post (object)
@@ -12,3 +13,4 @@ Example MSON file
 ## Author (object)
 + name: Boba Fett
 + email: fett@intergalactic.com
+```
