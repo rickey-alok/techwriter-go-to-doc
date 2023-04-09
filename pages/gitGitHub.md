@@ -1,8 +1,23 @@
 # Git & Gihub - Cheatsheet
 
-## Git
+## Git (Global Information Tracker)
 
-an open source, distributed version-control system.
+- What
+  - an open source
+    - so it is free to use and developers can modify the source code to suit their needs
+  - distributed version-control system, for software development mainly.
+    - allows developers to track the changes made to a project, and revert to previous versions if necessary.
+  - but not a programming language
+  - develop by **Linus Torvalds** in 2005
+- Why
+  - Collaboration
+    - allows multiple developers to work on the same project at the same time without interfering with one another
+  - Branching
+    - allows developers to create branches of a project, so they can make changes without affecting the main version of the project.
+  - Speed
+    - fast and efficient system which allows developers to work quickly and seamlessly on projects
+  - Security
+    - uses encryption to secure data transfer and storage, which helps keep sensitive information safe.
 
 ## Github
 
