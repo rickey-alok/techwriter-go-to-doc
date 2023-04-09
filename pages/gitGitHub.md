@@ -7,6 +7,7 @@
     - so it is free to use and developers can modify the source code to suit their needs
   - distributed version-control system, for software development mainly.
     - meaning there is no central point of control
+    - every computer is a full-fledged repository with complete history and full version-tracking abilities
   - but not a programming language
   - develop by **Linus Torvalds** in 2005
 - Why
