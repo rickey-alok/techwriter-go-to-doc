@@ -12,7 +12,7 @@ a platform for hosting and collaborating on Git repositories
 
 ![Git and GitHub](./../img/workflow-git.drawio.png "overview")
 
-<p style="text-align: center;">Git&GitHub workflow</p>
+<p style="text-align: center;"><u>Git&GitHub workflow</u></p>
 
 ### One time commands
 
