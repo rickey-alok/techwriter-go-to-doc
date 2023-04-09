@@ -1,6 +1,6 @@
 # Git & Gihub - Cheatsheet
 
-## Git (Global Information Tracker) <img src="./../img/git-logo.png" alt="Girl in a jacket" width="30%" height="30%" style="float:right">
+## Git (Global Information Tracker) <img src="./../img/git-logo.png" alt="git" width="30%" height="30%" style="float:right">
 
 - What
   - an open source
