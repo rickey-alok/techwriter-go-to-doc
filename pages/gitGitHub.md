@@ -22,7 +22,12 @@
 
 ## Github <img src="./../img/github-logo.png" alt="git" width="9%" height="9%" style="float:right">
 
-a platform for hosting and collaborating on Git repositories
+- What
+  - A platform for code hosting and collaborating on projects using git.
+  - It serves as a location for uploading copies of a Git repository.
+- Why
+  - makes it easy for developers to share code files and collaborate with fellow developers
+  - also serves as a social networking site where developers can openly network, collaborate, and pitch their work
 
 ## Workflow
 
