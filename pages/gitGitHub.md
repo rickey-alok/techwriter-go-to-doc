@@ -1,12 +1,12 @@
 # Git & Gihub - Cheatsheet
 
-## Git (Global Information Tracker)
+## Git (Global Information Tracker) <img src="./../img/git-logo.png" alt="Girl in a jacket" width="30%" height="30%" style="float:right">
 
 - What
   - an open source
     - so it is free to use and developers can modify the source code to suit their needs
   - distributed version-control system, for software development mainly.
-    - allows developers to track the changes made to a project, and revert to previous versions if necessary.
+    - meaning there is no central point of control
   - but not a programming language
   - develop by **Linus Torvalds** in 2005
 - Why
