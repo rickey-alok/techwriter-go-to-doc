@@ -2,7 +2,7 @@
 
 # Example MSON file
 
-```json
+```
 # Data Structures
 
 ## Blog Post (object)
