@@ -1,20 +1,20 @@
-# Application Layer
+# 1. Application Layer
 
 ## HTTP (port 80)/ HTTPS (port 443)
 
 ![Appication layer](../img/Application%20Layer.jpg)
 
-# Presentation Layer
+# 2. Presentation Layer
 
 ![Presentation Layer](../img/Presentation%20Layer.jpg)
 
-# Session Layer
+# 3. Session Layer
 
 ![Session Layer 1](../img/Session%20Layer%201.jpg)
 
 ![Session Layer 2](../img/Session%20Layer%202.jpg)
 
-# Transport Layer
+# 4. Transport Layer
 
 ![Transport Layer 1](../img/Transport%20Layer%201.jpg)
 
@@ -28,15 +28,15 @@
 
 ![Transport Layer 6](../img/Transport%20Layer%206.jpg)
 
-# Network Layer
+# 5. Network Layer
 
 ![Network Layer](../img/Network%20Layer.jpg)
 
-# Data Link Layer
+# 6. Data Link Layer
 
 ![Data Link Layer](../img/Data%20Link%20Layer.jpg)
 
-# Physical Layer
+# 7. Physical Layer
 
 ![Physical Layer](../img/Physical%20Layer.jpg)
 
