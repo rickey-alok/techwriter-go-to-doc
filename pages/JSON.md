@@ -36,16 +36,6 @@
 }
 ```
 
-```
-# name value is `string`
-# age value is `number`
-# height value is `number.fraction`
-# gender value is `string`
-# salary value is `number`
-# married value is `BOOLEAN`
-# children value is `array`
-```
-
 ## Data Types
 
 | Type    | Description                             |
