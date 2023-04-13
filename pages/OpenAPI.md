@@ -6,7 +6,7 @@
 * can perform the validation in both direction
 
 ## Open API Structure
-[OpenAPI_structure](./pages/OpenAPI_structure.html)
+[OpenAPI_structure](OpenAPI_structure.html)
 
 1. **openapi** `string` `required` - The openapi field SHOULD be used by tooling specifications and clients to interpret the OpenAPI document. This is not related to the API info.version string.
 
