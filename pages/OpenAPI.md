@@ -1,12 +1,15 @@
 # OpenAPI Specification
+
 ## Advantage using OpenAPI
-* Understand by machines and humans.
-* one can generate both server and client code in any programming language.
-* use mock servers to provide example responses which enable both consumers and producers to start development at a same time.
-* can perform the validation in both direction
+
+- Understand by machines and humans.
+- one can generate both server and client code in any programming language.
+- use mock servers to provide example responses which enable both consumers and producers to start development at a same time.
+- can perform the validation in both direction
 
 ## Open API Structure
-[OpenAPI_structure](OpenAPI_structure.html)
+
+[OpenAPI Map](https://openapi-map.apihandyman.io/)
 
 1. **openapi** `string` `required` - The openapi field SHOULD be used by tooling specifications and clients to interpret the OpenAPI document. This is not related to the API info.version string.
 
