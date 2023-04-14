@@ -8,6 +8,7 @@
   position: sticky;
   top: 0px;
   flex-flow: row;
+  margin: 0px;
 }
 
 .navbar a {
@@ -20,7 +21,20 @@
 .navbar a:hover {
   text-decoration: underline;
   color: white;
-  background-color: rgb(107, 107, 104);
+  background-color: rgb(10, 10, 10);
+}
+
+.footer a:hover {
+  text-decoration: underline;
+  color: rgb(104, 99, 99);
+  padding: 5px;
+}
+.footer p {
+  color: white;
+  padding: 5px;
+}
+.footer p:hover {
+  color: rgb(104, 99, 99);
 }
 
 .navbar-right {
@@ -28,18 +42,13 @@
 }
 
 .body {
-  top: auto;
-  bottom: 0%;
-  left: auto;
-  right: auto;
+  margin: auto;
 }
 .footer {
-  background-color: grey;
-  color: white;
+  width: 100%;
+  height: 15%;
+  background-color: black;
+  color: black;
   text-align: center;
-  text-decoration: none;
-  display: block;
-  flex: content;
-  top: auto;
-  bottom: auto;
+  margin-bottom: 0px;
 }
