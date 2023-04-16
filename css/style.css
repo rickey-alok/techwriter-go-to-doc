@@ -2,7 +2,7 @@
   font-family: cursive;
 }
 
-.navbar {
+#header {
   background-color: rgb(151, 148, 148);
   padding: 15px;
   position: sticky;
@@ -11,14 +11,14 @@
   margin: 0px;
 }
 
-.navbar a {
+#header a {
   text-decoration: none;
   color: black;
   text-shadow: rgb(255, 0, 0);
   padding: 5px;
 }
 
-.navbar a:hover {
+#header a:hover {
   text-decoration: underline;
   color: white;
   background-color: rgb(10, 10, 10);
@@ -37,7 +37,7 @@
   color: rgb(104, 99, 99);
 }
 
-.navbar-right {
+#header-right {
   float: right;
 }
 
