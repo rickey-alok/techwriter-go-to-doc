@@ -3,7 +3,7 @@
 }
 
 #header {
-  background-color: rgb(151, 148, 148);
+  background-color: rgba(151, 148, 148, 0.2);
   padding: 15px;
   position: sticky;
   top: 0px;
@@ -14,9 +14,20 @@
 #header a {
   text-decoration: none;
   color: black;
-  text-shadow: rgb(255, 0, 0);
   padding: 5px;
+  border-radius: 9px;
+  /* animation-name: example;
+  animation-duration: 3s; */
 }
+
+/* @keyframes example {
+  from {
+    background-color: grey;
+  }
+  to {
+    background-color: white;
+  }
+} */
 
 #header a:hover {
   text-decoration: underline;
@@ -24,31 +35,15 @@
   background-color: rgb(10, 10, 10);
 }
 
-.footer a:hover {
-  text-decoration: underline;
-  color: rgb(104, 99, 99);
-  padding: 5px;
-}
-.footer p {
-  color: white;
-  padding: 5px;
-}
-.footer p:hover {
-  color: rgb(104, 99, 99);
-}
-
 #header-right {
   float: right;
 }
 
-.body {
-  margin: auto;
-}
-.footer {
+#footer {
   width: 100%;
   height: 15%;
   background-color: black;
-  color: black;
+  color: white;
   text-align: center;
-  margin-bottom: 0px;
+  margin-top: 0px;
 }
