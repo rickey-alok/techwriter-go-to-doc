@@ -6,9 +6,7 @@
   background-color: rgba(151, 148, 148, 0.2);
   padding: 15px;
   position: sticky;
-  top: 0px;
-  flex-flow: row;
-  margin: 0px;
+  top: 0;
 }
 
 #header a {
@@ -41,9 +39,32 @@
 
 #footer {
   width: 100%;
-  height: 15%;
+  height: 200px;
   background-color: black;
   color: white;
   text-align: center;
-  margin-top: 0px;
+  float: left;
+}
+
+#footer p {
+  padding: 6px;
+}
+
+.git-body {
+  width: 100%;
+  height: 1000px;
+  background-color: rgb(230, 227, 227);
+  float: left;
+}
+
+/* .sidebar {
+  width: 10%;
+  height: 100%;
+  background-color: rgb(230, 227, 227, 0.2);
+  text-align: center;
+  float: left;
+} */
+
+.sidebar a {
+  text-decoration: none;
 }
