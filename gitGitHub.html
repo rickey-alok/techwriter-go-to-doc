@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -14,8 +13,16 @@
   </head>
   <body>
     <div id="header"></div>
+    <div class="sidenav">
+      <a href="#h2-git">Git</a>
+      <a href="#h2-github">GitHub</a>
+      <a href="#h2-workflow">Workflow</a>
+    </div>
     <div class="git-body">
-      <h1 id="h1">What</h1>
+      <h1>Git & GitHub - Cheat sheet</h1>
+      <h2 id="h2-git">Git</h2>
+      <img src="./img/git-logo.png" alt="git-logo" style="float: right";>
+      <h3>What</h3>
       <ul>
         <li>
           an open source
@@ -39,7 +46,7 @@
         <li>but not a programming language</li>
         <li>developed by <strong>Linus Torvalds</strong> in 2005</li>
       </ul>
-      <h1 id="h2">Why</h1>
+      <h3>Why</h1>
       <ul>
         <li>
           Collaboration
@@ -78,16 +85,43 @@
           </ul>
         </li>
       </ul>
+      <h2 id="h2-github">GitHub</h2>
+      <img src="./img/github-logo.png" alt="github-logo" style="float: right";>
+      <h3>What</h3>
+      <ul>
+        <li>A platform for code hosting and collaborating on projects using git</li>
+        <li>It serves as a location for uploading copies of a Git repository</li>
+      </ul>
+      <h3>Why</h3>
+      <ul>
+        <li>makes it easy for developers to share code files and collaborate with fellow developers</li>
+        <li>also serves as a social networking site where developers can openly network, collaborate, and pitch their work</li>
+      </ul>
+      <h2 id="h2-workflow">Workflow</h1>
+      <img src="./img/workflow-git.drawio.png" alt="workflow-git" />
+      <h2>One time commands</h2>
+      <ul>
+        <li title="initialize an existing directory as a Git repository">git init</li>
+        <li title="set an email address that will be associated with each history marker">git config --global user.email "xyz@gmail.com"</li>
+        <li title="set a name that is identifiable for credit when review version history">git config --global user.name "yourName"</li>
+        <li title="add a remote repository">git remote add origin "url - http or SHH"</li>
+        <li title="retrieve an entire repository from a hosted location via URL">git clone "url - http or SHH"</li>
+      </ul>
+      <h2>Frequently used commands</h2>
+      <ul>
+        <li title="show modified files in working directory, staged for your next commit">git status</li>
+        <li title="show the commit history for the currently active branch">git log</li>
+        <li title="add a file as it looks now to your next commit (stage)">git add .</li>
+        <li title="commit your staged content as a new commit snapshot">git commit -m "[descriptive message]"</li>
+        <li title="diff of what is changed but not staged">git diff</li>
+        <li title="diff of what is staged but not yet commited">git diff --staged</li>
+        <li title="list your branches. a * will appear next to the currently active branch">git branch</li>
+        <li title="switch to another branch and check it out into your working directory">git checkout</li>
+        <li title="Transmit local branch commits to the remote repository branch">git push [alias] [branch]</li>
+        <li title="fetch and merge any commits from the tracking remote branch">git pull [alias] [branch]</li>
+        <li title="apply any commits of current branch ahead of specified one">git rebase [branch]</li>
+      </ul>
     </div>
-    <!-- <div class="sidebar">
-      <div style="padding: 5px">
-        <h3>TOC</h1>
-        <a href="#h1">What</a>
-      </div>
-      <div>
-        <a href="#h2">Why</a>
-      </div>
-    </div> -->
     <div id="footer"></div>
   </body>
 </html>

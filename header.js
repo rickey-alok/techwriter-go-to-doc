@@ -2,8 +2,7 @@ header.innerHTML = `
   <nav>
     <div>
       <a href="./index.html">Home</a>
-      <a href="./pages/gitGitHub.md">GitGitHub</a>
-      <a href="./gitGitHub.html">GitGitHubNew</a>
+      <a href="./gitGitHub.html">Git&GitHub</a>
       <a href="./pages/Markdown.html">Markdown</a>
       <a href="./pages/JSON.html">Json</a>
       <a href="./pages/MSON.html">Mson</a>
