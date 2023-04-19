@@ -123,10 +123,13 @@
       <ul>
         <li title="show modified files in working directory, staged for your next commit">git status</li>
         <li title="show the commit history for the currently active branch">git log</li>
-        <li title="add a file as it looks now to your next commit (stage)">git add .</li>
+        <li title="stages all files">git add -A</li>
+        <li title="stages modified and NEW files, without DELETED file">git add .</li>
+        <li title="stages modified and DELETED files, without NEW file">git add -u</li>
         <li title="commit your staged content as a new commit snapshot">git commit -m "[descriptive message]"</li>
         <li title="diff of what is changed but not staged">git diff</li>
         <li title="diff of what is staged but not yet commited">git diff --staged</li>
+        <li title="diff of what is changed but not commited">git diff head</li>
         <li title="list your branches. a * will appear next to the currently active branch">git branch</li>
         <li title="switch to another branch and check it out into your working directory">git checkout</li>
         <li title="Transmit local branch commits to the remote repository branch">git push [alias] [branch]</li>
