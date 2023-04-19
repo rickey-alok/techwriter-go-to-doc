@@ -126,15 +126,18 @@
         <li title="stages all files">git add -A</li>
         <li title="stages modified and NEW files, without DELETED file">git add .</li>
         <li title="stages modified and DELETED files, without NEW file">git add -u</li>
-        <li title="commit your staged content as a new commit snapshot">git commit -m "[descriptive message]"</li>
+        <li title="commit your staged content as a new commit snapshot">git commit -m "message"</li>
+        <li title="`stage and commit` your new commit snapshot">git commit -am "message"</li>
         <li title="diff of what is changed but not staged">git diff</li>
         <li title="diff of what is staged but not yet commited">git diff --staged</li>
         <li title="diff of what is changed but not commited">git diff head</li>
         <li title="list your branches. a * will appear next to the currently active branch">git branch</li>
         <li title="switch to another branch and check it out into your working directory">git checkout</li>
-        <li title="Transmit local branch commits to the remote repository branch">git push [alias] [branch]</li>
-        <li title="fetch and merge any commits from the tracking remote branch">git pull [alias] [branch]</li>
-        <li title="apply any commits of current branch ahead of specified one">git rebase [branch]</li>
+        <li title="Transmit local branch commits to the remote repository branch">git push remote branch1 or just - git push</li>
+        <li title="fetch and merge any commits from the tracking remote branch">git pull remote branch1 or just - git pull</li>
+        <li title="fetch down all the branches from that Git remote">git fetch</li>
+        <li title="merge a remote branch into your current branch to bring it up to date">git merge branch1</li>
+        <li title="apply any commits of current branch ahead of specified one">git rebase Master</li>
       </ul>
     </details>
     </div>
